@@ -16,5 +16,16 @@ namespace TP_MOD3_1302210125
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama = this.textcek1.Text;
+            this.labelcek2.Text = "MANTAP SELALU! " + nama + " 🙂🙂🙂🙂🙂";
+        }
+
+        private void labelcek1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

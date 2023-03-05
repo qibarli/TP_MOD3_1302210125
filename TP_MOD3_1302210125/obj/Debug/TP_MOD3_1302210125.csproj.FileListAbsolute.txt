@@ -1,0 +1,11 @@
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\bin\Debug\TP_MOD3_1302210125.exe.config
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\bin\Debug\TP_MOD3_1302210125.exe
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\bin\Debug\TP_MOD3_1302210125.pdb
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.csproj.AssemblyReference.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.csproj.SuggestedBindingRedirects.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.Form1.resources
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.Properties.Resources.resources
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.csproj.GenerateResource.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.csproj.CoreCompileInputs.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.exe
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD3_1302210125\TP_MOD3_1302210125\obj\Debug\TP_MOD3_1302210125.pdb
